@@ -118,4 +118,4 @@ See the LICENSE
 file for more information.
 Acknowledgements
 
-Special thanks to the National Institute of Geophysics and Oceanography (INGV) for providing model data and technical support.
+Special thanks to the National Institute of Geophysics and Oceanography (OGS) for providing model data and technical support.
