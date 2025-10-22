@@ -20,8 +20,8 @@ data/
 
 # Output files
 outputs/
-*.png
 *.pdf
+*.csv
 
 # IDE settings
 .vscode/
