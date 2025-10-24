@@ -9,7 +9,7 @@ REFLECTANCE_VAR = 'reflectance'
 TIME_DIM = 'time'
 LAT_DIM = 'lat'
 LON_DIM = 'lon'
-WAVELENGTH_DIM = 'wavelength'
+WAVELENGTH_DIM = ['412', '443', '490', '510', '555', '670']
 
 OUTPUT_DIR = 'outputs/'
 FIGURE_DIR = 'outputs/figures/'
