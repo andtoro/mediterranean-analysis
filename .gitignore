@@ -19,7 +19,7 @@ __pycache__/
 data/
 
 # Output files
-outputs/
+outputs/figures/
 *.pdf
 *.csv
 
