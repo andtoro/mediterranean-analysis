@@ -19,9 +19,9 @@ __pycache__/
 data/
 
 # Output files
-outputs/figures/
+csv/
+figures/
 *.pdf
-*.csv
 
 # IDE settings
 .vscode/
